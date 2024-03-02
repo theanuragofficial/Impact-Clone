@@ -1,0 +1,307 @@
+@media screen and (min-width: 320px) and (max-width: 570px) {
+  nav {
+    display: none;
+  }
+
+  header {
+    display: none;
+  }
+  .box {
+    width: unset;
+    height: unset;
+    padding-left: unset;
+    padding-top: unset;
+    display: contents;
+  }
+  .box h2 {
+    font-size: 30px;
+  }
+  .boxparent {
+    flex-direction: column;
+    padding-top: unset;
+  }
+  section {
+    /* height: 984px; */
+    position: unset;
+    width: 100%;
+    margin-left: 40px !important;
+  }
+  .buttonparent {
+    flex-direction: column;
+  }
+
+  .image {
+    width: unset;
+    height: unset;
+    border-radius: unset;
+    margin: unset;
+    padding-bottom: unset;
+    padding-top: 35px;
+  }
+  .smallbox {
+    margin: 10px 0;
+  }
+  .boxes {
+    flex-direction: column;
+    position: unset;
+    margin-top: 17px;
+  }
+  .image {
+    flex-direction: column;
+    width: unset;
+  }
+  .imgflex {
+    width: unset;
+  }
+  .flexx {
+    flex-direction: column;
+    position: unset;
+  }
+  .mainfirst {
+    flex-direction: column;
+  }
+  .mesta {
+    display: inline;
+  }
+  .play a {
+    position: unset;
+    padding-top: 16px;
+    display: block;
+    width: 89;
+    height: 79;
+    margin-left: 152px;
+    padding-left: 6px;
+  }
+  .play a::after {
+    position: unset;
+    border: unset;
+    animation: unset;
+  }
+  .play a::before {
+    position: unset;
+    border: unset;
+    animation: unset;
+  }
+  .image img {
+    margin-left: 48px;
+  }
+
+  .imgflex h3 {
+    width: 400px;
+    margin-left: 140px;
+  }
+  .imgflex p {
+    margin-left: 96px;
+  }
+
+  .about h1 {
+    margin-left: 195px;
+  }
+  .about p {
+    margin-left: 90px;
+  }
+  .Services {
+    width: 539px;
+  }
+  .play {
+    padding-top: 50px;
+  }
+  .action {
+    padding-bottom: 50px;
+    height: unset;
+    width: unset;
+  }
+
+  .call {
+    margin-top: 24px;
+    margin-left: 22%;
+  }
+  .action h1 {
+    padding-top: 95px;
+  }
+  .Services {
+    margin-left: 42px;
+  }
+  .Services h1 {
+    margin-left: 177px;
+    margin-top: unset;
+  }
+  .mainmete {
+    flex-direction: column;
+  }
+  .mete {
+    margin: 10px 0;
+  }
+  .Our h1 {
+    margin-left: 209px;
+  }
+
+  .testi {
+    flex-direction: column;
+  }
+  .main {
+    margin: 8px 0;
+    width: 416px;
+  }
+
+  .pre {
+    width: 400px;
+    margin-left: 90px;
+  }
+  .list {
+    width: 400px;
+    margin-left: 215px;
+  }
+  .Portfolio {
+    margin-left: 50px;
+  }
+  .Portfolio h1 {
+    /* margin-left: 70vh; */
+    padding-left: 70vh;
+    /* margin-left: 100px; */
+  }
+  .Portfolio h1::before {
+    /* margin-left: 77vh; */
+    left: 75vh;
+  }
+  .flex123 {
+    flex-direction: column;
+    width: unset;
+  }
+  .image123 {
+    width: unset;
+    margin: 10px 0;
+  }
+  /* p {
+  width: 393px;
+  margin-left: 70px;
+} */
+  .team {
+    margin-left: 50px;
+  }
+  .team iframe {
+    margin-right: 100px;
+  }
+
+  .second {
+    margin: 8px 0;
+  }
+  .fourth {
+    margin: 20px 0;
+  }
+  .lorem {
+    width: 250px;
+  }
+  .happy {
+    width: 400px !important;
+  }
+  .happy img {
+    width: 100% !important;
+    margin-left: 90px;
+  }
+  iframe {
+    margin-left: 150px !important;
+  }
+}
+@media screen and (min-width: 570px) and (max-width: 1024px) {
+  nav {
+    display: none;
+  }
+
+  .nave {
+    display: none;
+  }
+  .section {
+    padding: 0 20px;
+  }
+  .box {
+    width: unset;
+    height: unset;
+    padding-left: unset;
+    padding-top: unset;
+  }
+  .boxparent {
+    padding: 0 20px;
+  }
+  .boxes {
+    flex-direction: column;
+    position: unset;
+    margin-top: 17px;
+  }
+  .flexx {
+    flex-direction: column;
+    position: unset;
+  }
+  .smallbox {
+    margin: 10px 0;
+  }
+  .mainfirst {
+    flex-direction: column;
+  }
+  .second {
+    margin: 8px 0;
+  }
+  .fourth {
+    margin: 20px 0;
+  }
+  .play a {
+    position: unset;
+    padding-top: 16px;
+    display: block;
+    width: 89;
+    height: 79;
+    margin-left: 152px;
+    padding-left: 6px;
+  }
+  .play a::after {
+    position: unset;
+    border: unset;
+    animation: unset;
+  }
+  .play a::before {
+    position: unset;
+    border: unset;
+    animation: unset;
+  }
+  .play {
+    padding-top: 150px;
+    padding-left: 150px;
+  }
+
+  .action {
+    padding-bottom: 50px;
+    height: unset;
+    width: 100%;
+  }
+  .action h1 {
+    padding-top: 95px;
+  }
+  .testi {
+    flex-direction: column;
+  }
+  .mainmete {
+    flex-direction: column;
+  }
+  .mete {
+    margin: 10px 0;
+  }
+  .main {
+    margin: 8px 0;
+  }
+  .flex123 {
+    flex-direction: column;
+  }
+  .image123 {
+    width: unset;
+    margin: 10px 0;
+  }
+  .happy {
+    width: 500px !important;
+  }
+  .happy img {
+    width: 100% !important;
+  }
+  .mesta {
+    flex-direction: column;
+  }
+}
